@@ -1,0 +1,7 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="95" stroke="#264653" stroke-width="2" stroke-dasharray="8 4"/>
+  <path d="M60 140V60H85C100 60 110 70 110 85C110 100 100 110 85 110H60" stroke="#E76F51" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M115 140V60H140C155 60 165 70 165 85C165 100 155 110 140 110H115" stroke="#E76F51" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 105L105 115L115 115L108 122L110 132L100 125L90 132L92 122L85 115L95 115L100 105Z" fill="#F4A261"/>
+  <text x="50%" y="170" text-anchor="middle" font-family="serif" font-weight="bold" font-size="14" fill="#264653" letter-spacing="2">PINCH &amp; PASSPORT</text>
+</svg>
